@@ -247,12 +247,14 @@ body{
     background-color:#949CD9;
 }
 img#tit{
-    height: 100px;
-    width: 400px;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
 }
 img#titf{
-    height: 60px;
-    width: 300px;
+    width: 100%;
+    max-width: 200px;
+    height: auto;
 }
 div#fa{
    display:hidden;
