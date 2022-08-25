@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b19d4e3.css",
+    "main.js": "/static/js/main.3d5cc57b.js",
+    "static/js/787.33bbf241.chunk.js": "/static/js/787.33bbf241.chunk.js",
+    "static/media/MEMBERS SPECIAL DISCOUNT (1).jpg": "/static/media/MEMBERS SPECIAL DISCOUNT (1).f53db543a9b76099a79f.jpg",
+    "static/media/DHRUVA BANNER.jpg": "/static/media/DHRUVA BANNER.be7027a854517d88f71b.jpg",
+    "static/media/batchf.png": "/static/media/batchf.c0955691812b1cb8943f.png",
+    "static/media/scid.png": "/static/media/scid.285c44d1c6b00c952214.png",
+    "static/media/stargaz.png": "/static/media/stargaz.699a3e4993e66a2750a4.png",
+    "static/media/club intro.jpg": "/static/media/club intro.15a8f3dfdc996e3816c5.jpg",
+    "static/media/STAR_BUSS__2_-removebg-preview.png": "/static/media/STAR_BUSS__2_-removebg-preview.4e679004e4402db7c7f7.png",
+    "static/media/stshirtf.jpg": "/static/media/stshirtf.591711c9de8375c549be.jpg",
+    "static/media/cf.png": "/static/media/cf.a2fa2429560001230fec.png",
+    "static/media/contactus.png": "/static/media/contactus.fecbaf9bba7fe1eeea0b.png",
+    "static/media/Add_a_heading__4_-removebg-preview2.png": "/static/media/Add_a_heading__4_-removebg-preview2.9756e852e9ee4f977cb1.png",
+    "static/media/EVENTST2.png": "/static/media/EVENTST2.ac0d69e02773ccbf28ac.png",
+    "index.html": "/index.html",
+    "main.2b19d4e3.css.map": "/static/css/main.2b19d4e3.css.map",
+    "main.3d5cc57b.js.map": "/static/js/main.3d5cc57b.js.map",
+    "787.33bbf241.chunk.js.map": "/static/js/787.33bbf241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b19d4e3.css",
+    "static/js/main.3d5cc57b.js"
+  ]
+}
